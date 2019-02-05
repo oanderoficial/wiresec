@@ -26,5 +26,4 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 
 # Screenshot
 
-<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/screenshot.png">
-<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/Screenshot2.png">
+<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
