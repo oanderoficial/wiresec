@@ -11,3 +11,18 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 <li><code>sudo ./wiresec.sh ou sudo su ./wiresec.sh</code></li>
 </ol>
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/image.png">
+
+# :exclamation: Requisitos
+
+<ul>
+<li>
+<p>Um sistema operacional linux.</p>
+</li>
+<li>
+<p>git
+</p>
+</li>
+</ul>
+
+<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/screenshot.png">
+
