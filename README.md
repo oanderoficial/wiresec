@@ -28,13 +28,13 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 </li>
 </ul>
 
-# Screenshot
+# Screenshot 📷
 
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
 
-# Ajude o Projeto 
+# Ajude o Projeto ❤️
 
-Doe Criptomoedas 
+Doe Criptomoedas 💲
 
 Bitcoin  (BTC) 3HnkmPB7YxXBogG3chxGEnmya4kvVUocJD
 
