@@ -20,7 +20,7 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 
 <ul>
 <li>
-<p>Um sistema operacional linux.</p>
+<p>Um sistema operacional linux.🐧 </p>
 </li>
 <li>
 <p>git
