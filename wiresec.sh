@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+#Acesso ROOT.
+
+[ $UID -ne '0' ] && { echo "Necessário ter Acesso ROOT."; exit 1 ;}
+
+#BANNER
+
 green='\e[0;34m'
 okegreen='\033[92m'
 BlueF='\e[1;34m'
