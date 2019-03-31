@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#COLORS
+
 green='\e[0;34m'
 okegreen='\033[92m'
 BlueF='\e[1;34m'
@@ -7,6 +9,8 @@ cyan='\e[0;36m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 orange='\e[38;5;166m'
+
+#BANNER
 
 echo -e $red"            _____                                     "
 echo -e $red" ___      _____(_)_____________ _____________ _______ "
