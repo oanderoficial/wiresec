@@ -1,6 +1,7 @@
 ─=≡Σ(([ ⊐•̀⌂•́]⊐
 
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-1.1-sucecess.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
+[![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/wiresec)
 
 # 📡 wiresec 
 
