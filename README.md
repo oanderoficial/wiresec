@@ -3,7 +3,7 @@
 [![Versão](https://img.shields.io/badge/vers%C3%A3o-1.1-sucecess.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
 [![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/wiresec)
 [![user](https://img.shields.io/badge/user-ROOT-red.svg)](https://github.com/oandersonbsilva/wiresec)
-
+[![Tools:](https://img.shields.io/badge/Tools%3A-32-blue.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
 # 📡 wiresec 
 
 Wiresec é Um Script que organiza e Realiza o download Das principais ferramentas de Wireless Attacks em Qualquer Distribuição Linux utilizando a Plataforma Do GitHub e O Git para a Realização dos Downloads. A Ferramenta utiliza um menu informativo numerado E Organizado em ordem alfabética, a Onde basta Digitar o Número da ferramenta desejada.
