@@ -9,7 +9,7 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 
   Versões Anteriores:
   
-  📦<kbd>V 1.0<kbd> 
+  📦<kbd>V 1.1<kbd> 
   📦<kbd>V 1.0<kbd> 
 
 # Instalação
