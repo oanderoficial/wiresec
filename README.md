@@ -38,7 +38,5 @@ Wiresec é Um Script que organiza e Realiza o download Das principais ferramenta
 
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
 
-# Minhas Redes
-<code><img height="100" width="100" src="https://raw.githubusercontent.com/oandersonbsilva/oandersonbsilva/master/code.png"></code>
 
 
