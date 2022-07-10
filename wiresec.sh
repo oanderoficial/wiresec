@@ -27,7 +27,7 @@ echo -e $okegreen "[!] Os Arquivos baixados se encontram em /wiresec"
 echo -e $orange
 echo ""
 
-select i in  Aircrack/ng Asleap Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
+select i in  Aircrack/ng Asleap airgeddon Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
 do
 
    case "$i" in
@@ -60,6 +60,23 @@ echo -e ""
    echo -e ""
 
          echo -e "$okegreen [TOOL: Asleap]"
+         echo -e ""
+      echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
+      echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
+      echo -e "$orange wiresec v.1.1"
+    ;;
+
+   airgeddon)
+   echo -e "$yellow *** Baixando airgeddon ***"
+   git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+   clear
+   echo -e "   __      __ (_)  _ __    ___   ___    ___    ___ "
+   echo -e "  \ \ /\ / / | | | '__|  / _ \ / __|  / _ \  / __| "
+   echo -e "   \ V  V /  | | | |    |  __/ \__ \ |  __/ | (__  "
+   echo -e "    \_/\_/   |_| |_|     \___| |___/  \___|  \___| "
+   echo -e ""
+
+         echo -e "$okegreen [TOOL: airgeddon]"
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
