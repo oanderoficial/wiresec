@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+#Acesso ROOT.
+
+[ $UID -ne '0' ] && { echo "Necessário ter Acesso ROOT."; exit 1 ;}
+
 #COLORS
 
 green='\e[0;34m'
@@ -17,7 +21,7 @@ echo -e $red" ___      _____(_)_____________ _____________ _______ "
 echo -e $red" __ | /| / /__  / __  ___/_  _ \__  ___/_  _ \_  ___/ "
 echo -e $red" __ |/ |/ / _  /  _  /    /  __/_(__  ) /  __// /__   "
 echo -e $red" ____/|__/  /_/   /_/     \___/ /____/  \___/ \___/   "
-echo -e $yellow" Autor:  Anderson.b.Silva | 32 Tools | GIT |$green v.1.2 "
+echo -e $yellow" Autor:  Anderson.b.Silva | 32 Tools | GIT |$green v.1.1 "
 echo ""
 echo -e $yellow "[#]"$red "*** Wireless Attacks *** "
 echo -e $red " *** É necessário ter o git instalado ***"
