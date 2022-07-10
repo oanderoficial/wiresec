@@ -2,7 +2,6 @@
 
 #Acesso ROOT.
 
-[ $UID -ne '0' ] && { echo "Necessário ter Acesso ROOT."; exit 1 ;}
 
 #COLORS
 
