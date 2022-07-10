@@ -86,7 +86,7 @@ echo -e ""
   
    Airopy)
    echo -e "$yellow *** Baixando Airopy***"
-   git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+   git clone https://github.com/Josue87/Airopy.git
    clear
    echo -e "   __      __ (_)  _ __    ___   ___    ___    ___ "
    echo -e "  \ \ /\ / / | | | '__|  / _ \ / __|  / _ \  / __| "
