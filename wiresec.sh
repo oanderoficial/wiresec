@@ -30,7 +30,7 @@ echo -e $okegreen "[!] Os Arquivos baixados se encontram em /wiresec"
 echo -e $orange
 echo ""
 
-select i in  Aircrack/ng Asleap Airgeddon Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
+select i in  Aircrack/ng Asleap Airgeddon Airopy Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
 do
 
    case "$i" in
@@ -80,6 +80,23 @@ echo -e ""
    echo -e ""
 
          echo -e "$okegreen [TOOL: Airgeddon]"
+         echo -e ""
+      echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
+      echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
+      echo -e "$orange wiresec v.1.1"
+    ;;
+
+    Airopy)
+   echo -e "$yellow *** Baixando Airopy ***"
+   git clone https://github.com/Josue87/Airopy.git
+   clear
+   echo -e "   __      __ (_)  _ __    ___   ___    ___    ___ "
+   echo -e "  \ \ /\ / / | | | '__|  / _ \ / __|  / _ \  / __| "
+   echo -e "   \ V  V /  | | | |    |  __/ \__ \ |  __/ | (__  "
+   echo -e "    \_/\_/   |_| |_|     \___| |___/  \___|  \___| "
+   echo -e ""
+
+         echo -e "$okegreen [TOOL: Airopy]"
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
@@ -606,6 +623,9 @@ echo -e ""
     echo -e "$okegreen [!] Download Completo!"
     echo -e "$yellow [********************************]"
     git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git
+    echo -e "$okegreen [!] Download Completo!"
+    echo -e "$yellow [********************************]"
+    git clone https://github.com/Josue87/Airopy.git
     echo -e "$okegreen [!] Download Completo!"
     echo -e "$yellow [********************************]"
     git clone https://github.com/MS3FGX/Bluelog.git
