@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 
+#Acesso ROOT.
+
+
 #COLORS
+
 green='\e[0;34m'
 okegreen='\033[92m'
 BlueF='\e[1;34m'
@@ -16,7 +20,7 @@ echo -e $red" ___      _____(_)_____________ _____________ _______ "
 echo -e $red" __ | /| / /__  / __  ___/_  _ \__  ___/_  _ \_  ___/ "
 echo -e $red" __ |/ |/ / _  /  _  /    /  __/_(__  ) /  __// /__   "
 echo -e $red" ____/|__/  /_/   /_/     \___/ /____/  \___/ \___/   "
-echo -e $yellow" Autor:  Anderson.b.Silva | 40 Tools | GIT |$green v.1.1 "
+echo -e $yellow" Autor:  Anderson.b.Silva | 40 Tools | GIT |$green v.1.2 "
 echo ""
 echo -e $yellow "[#]"$red "*** Wireless Attacks *** "
 echo -e $red " *** É necessário ter o git instalado ***"
@@ -45,7 +49,7 @@ echo -e ""
      echo -e ""
    echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
    echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-   echo -e "$orange wiresec v.1.1"
+   echo -e "$orange wiresec v.1.2"
     ;;
 
    Asleap)
@@ -62,7 +66,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
     Airflood)
@@ -78,7 +82,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
     Airgeddon)
@@ -95,7 +99,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
     Airopy)
@@ -112,7 +116,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    Airoscript)
@@ -129,7 +133,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    airpwn)
@@ -146,7 +150,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
   aphopper)
@@ -163,7 +167,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
     
   apnbf)
@@ -180,7 +184,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
     
 
@@ -198,7 +202,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
     
    auto-eap)
@@ -215,7 +219,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
     
 
@@ -233,7 +237,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    BlueMaho)
@@ -250,7 +254,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    Bluepot)
@@ -267,7 +271,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    BlueRanger)
@@ -284,7 +288,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    Bluesnarfer)
@@ -301,7 +305,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"/
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    Bully)
@@ -318,7 +322,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    coWPAtty)
@@ -335,7 +339,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    crackle)
@@ -352,7 +356,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    eapmd5pass)
@@ -369,7 +373,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
 
    ;;
 
@@ -387,7 +391,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    fluxion)
@@ -404,7 +408,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    Ghost/Phisher)
@@ -421,7 +425,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    GISKismet)
@@ -438,7 +442,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    gr-scan)
@@ -455,7 +459,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    kalibrate-rtl)
@@ -472,7 +476,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    KillerBee)
@@ -489,7 +493,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    Kismet)
@@ -506,7 +510,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    mdk3)
@@ -523,7 +527,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    mfcuk)
@@ -540,7 +544,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    mfoc)
@@ -557,7 +561,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    mfterm)
@@ -574,7 +578,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    Multimon-NG)
@@ -591,7 +595,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
    ;;
 
    PixieWPS)
@@ -608,7 +612,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    Reaver)
@@ -625,7 +629,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
    redfang)
@@ -642,7 +646,7 @@ echo -e ""
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-      echo -e "$orange wiresec v.1.1"
+      echo -e "$orange wiresec v.1.2"
     ;;
 
   RTLSDR-Scanner)
@@ -659,7 +663,7 @@ echo -e ""
         echo -e ""
      echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
      echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-     echo -e "$orange wiresec v.1.1"
+     echo -e "$orange wiresec v.1.2"
     ;;
 
   Spooftooph)
@@ -676,7 +680,7 @@ echo -e ""
         echo -e ""
     echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
     echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-    echo -e "$orange wiresec v.1.1"
+    echo -e "$orange wiresec v.1.2"
     ;;
 
   Wifi-Honey)
@@ -693,7 +697,7 @@ echo -e ""
         echo -e ""
     echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
     echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-    echo -e "$orange wiresec v.1.1"
+    echo -e "$orange wiresec v.1.2"
     ;;
 
   Wifitap)
@@ -710,7 +714,7 @@ echo -e ""
         echo -e ""
     echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
     echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-    echo -e "$orange wiresec v.1.1"
+    echo -e "$orange wiresec v.1.2"
     ;;
 
   Wifite)
@@ -727,7 +731,7 @@ echo -e ""
         echo -e ""
     echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
     echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
-    echo -e "$orange wiresec v.1.1"
+    echo -e "$orange wiresec v.1.2"
     ;;
 
     Todos)
