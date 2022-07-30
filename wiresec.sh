@@ -20,7 +20,7 @@ echo -e $red" ___      _____(_)_____________ _____________ _______ "
 echo -e $red" __ | /| / /__  / __  ___/_  _ \__  ___/_  _ \_  ___/ "
 echo -e $red" __ |/ |/ / _  /  _  /    /  __/_(__  ) /  __// /__   "
 echo -e $red" ____/|__/  /_/   /_/     \___/ /____/  \___/ \___/   "
-echo -e $yellow" Autor:  Anderson.b.Silva | 40 Tools | GIT |$green v.1.2 "
+echo -e $yellow" Autor:  Anderson.b.Silva | 41 Tools | GIT |$green v.1.2 "
 echo ""
 echo -e $yellow "[#]"$red "*** Wireless Attacks *** "
 echo -e $red " *** É necessário ter o git instalado ***"
@@ -30,7 +30,7 @@ echo -e $okegreen "[!] Os Arquivos baixados se encontram em /wiresec"
 echo -e $orange
 echo ""
 
-select i in  Aircrack/ng Asleap Airflood Airgeddon Airopy Airoscript airpwn aphopper apnbf atear auto-eap Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
+select i in  Aircrack/ng Asleap Airflood Airgeddon Airopy Airoscript airpwn aphopper apnbf atear auto-eap batctl Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
 do
 
    case "$i" in
@@ -216,6 +216,23 @@ echo -e ""
    echo -e ""
 
          echo -e "$okegreen [TOOL: auto-eap]"
+         echo -e ""
+      echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
+      echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
+      echo -e "$orange wiresec v.1.2"
+    ;;
+    
+    batctl)
+   echo -e "$yellow *** Baixando batctl ***"
+   git clone https://github.com/open-mesh-mirror/batctl.git
+   clear
+   echo -e "   __      __ (_)  _ __    ___   ___    ___    ___ "
+   echo -e "  \ \ /\ / / | | | '__|  / _ \ / __|  / _ \  / __| "
+   echo -e "   \ V  V /  | | | |    |  __/ \__ \ |  __/ | (__  "
+   echo -e "    \_/\_/   |_| |_|     \___| |___/  \___|  \___| "
+   echo -e ""
+
+         echo -e "$okegreen [TOOL: batctl]"
          echo -e ""
       echo -e " $okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
       echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
@@ -767,6 +784,9 @@ echo -e ""
     echo -e "$okegreen [!] Download Completo!"
     echo -e "$yellow [********************************]"
     git clone https://github.com/Tylous/Auto_EAP.git
+    echo -e "$okegreen [!] Download Completo!"
+    echo -e "$yellow [********************************]"
+    https://github.com/open-mesh-mirror/batctl.git
     echo -e "$okegreen [!] Download Completo!"
     echo -e "$yellow [********************************]"
     git clone https://github.com/MS3FGX/Bluelog.git
