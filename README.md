@@ -15,7 +15,7 @@ Wiresec é um script que organiza e realiza o download das principais ferramenta
 # Instalação
 
 <ol>
-<li><code>git clone https://github.com/bitcoinander/wiresec.git</code></li>
+<li><code>git clone https://github.com/oanderoficial/wiresec.git</code></li>
 <li><code>cd wiresec </code></li>
 <li><code>chmod a+x wiresec.sh</code></li>
 <li><code> ./wiresec.sh </code></li>
