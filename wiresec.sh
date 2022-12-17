@@ -27,7 +27,7 @@ echo -e $okegreen "[!] Os Arquivos baixados se encontram em /wiresec"
 echo -e $orange
 echo ""
 
-select i in  Aircrack/ng Asleap Airflood Airgeddon Airopy Airoscript airpwn aphopper apnbf atear auto-eap batctl batman-adv batman-alfred beholder boopsuite Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle create_ap eapmd5pass Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
+select i in  Aircrack/ng Asleap Airflood Airgeddon Airopy Airoscript airpwn aphopper apnbf atear auto-eap batctl batman-adv batman-alfred beholder boopsuite Bluelog BlueMaho Bluepot BlueRanger Bluesnarfer Bully coWPAtty crackle create_ap eapmd5pass eaphammer Fern/Wifi/Cracker fluxion Ghost/Phisher GISKismet gr-scan kalibrate-rtl KillerBee Kismet mdk3 mfcuk mfoc mfterm Multimon-NG PixieWPS Reaver redfang RTLSDR-Scanner Spooftooph Wifi-Honey Wifitap Wifite Todos sair
 do
 
    case "$i" in
@@ -474,6 +474,24 @@ echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
 echo -e "$orange wiresec v.1.2"
 ;;
 
+eaphammer)
+echo -e "$yellow *** Baixando eaphammer ***"
+git clone https://github.com/s0lst1c3/eaphammer.git
+clear
+echo -e "   __      __ (_)  _ __    ___   ___    ___    ___ "
+echo -e "  \ \ /\ / / | | | '__|  / _ \ / __|  / _ \  / __| "
+echo -e "   \ V  V /  | | | |    |  __/ \__ \ |  __/ | (__  "
+echo -e "    \_/\_/   |_| |_|     \___| |___/  \___|  \___| "
+echo -e ""
+
+echo -e "$okegreen [TOOL: eaphammer]"
+echo -e ""
+echo -e "$okegreen [!] Download Completo! Os Arquivos baixados se encontram em /wiresec"
+echo -e "$cyan  [!] Para chamar o menu de opções pressione ENTER "
+echo -e "$orange wiresec v.1.2"
+;;
+
+
 Fern/Wifi/Cracker)
 echo -e "$yellow *** Baixando Fern Wifi Cracker ***"
 git clone https://github.com/savio-code/fern-wifi-cracker.git
@@ -906,6 +924,9 @@ git clone https://github.com/oblique/create_ap.git
 echo -e "$okegreen [!] Download Completo!"
 echo -e "$yellow [********************************]"
 git clone https://github.com/joswr1ght/eapmd5pass.git
+echo -e "$okegreen [!] Download Completo!"
+echo -e "$yellow [********************************]"
+git clone https://github.com/s0lst1c3/eaphammer.git
 echo -e "$okegreen [!] Download Completo!"
 echo -e "$yellow [********************************]"
 git clone https://github.com/savio-code/fern-wifi-cracker.git
