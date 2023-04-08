@@ -35,4 +35,76 @@ Wiresec é um script que organiza e realiza o download das principais ferramenta
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
 
 
+<h3> Recomendações de ferramentas no projeto </h3>
+<p> Tem uma recomendação de alguma ferramenta realacionada a Wireless Attacks ? </p>
+<p> Para ter essa ferramenta inclusa nas versões futuras do Wiresec, faça o seguinte: </p>
+<table>
+  <thead>
+    <tr>
+      <th>Passo</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Envie o repositório oficial da ferramenta, junto com a descrição para (andersoncomercial@pm.me)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Aguarde até 5 dias, vou analizar e te retornar um feedback</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Se aprovado, a ferramenta será inclusa na próxima versão do Wiresec</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Se for reprovado, vou te retornar um feedback explicando os motivos</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Implemente o projeto</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td> Sua recomendação junto ao seu nickname vão aparecer nos commits oficiais na Branch principal.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Step</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Send the official repository of the tool, along with the description, to (andersoncomercial@pm.me)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wait up to 5 days for me to analyze and give you feedback</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>If approved, the tool will be included in the next version of Wiresec</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>If rejected, I will give you feedback explaining the reasons</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Implement the project</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Your recommendation along with your nickname will appear in the official commits on the main branch.</td>
+    </tr>
+  </tbody>
+</table>
 
