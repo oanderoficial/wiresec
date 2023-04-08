@@ -35,4 +35,40 @@ Wiresec é um script que organiza e realiza o download das principais ferramenta
 <img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
 
 
-
+<h3> Recomendações de ferramentas no projeto </h3>
+<p> Tem uma recomendação de alguma ferramenta realacionada a Wireless Attacks ? </p>
+<p> Para ter essa ferramenta inclusa nas versões futuras do Wiresec, faça o seguinte: </p>
+<table>
+  <thead>
+    <tr>
+      <th>Passo</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Envie o repositório oficial da ferramenta, junto com a descrição para (andersoncomercial@pm.me)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Aguarde até 5 dias, vou analizar e te retornar um feedback</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Se aprovado, a ferramenta será inclusa na próxima versão do Wiresec</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Se for reprovado, vou te retornar um feedback explicando os motivos</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Implemente o projeto</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td> Sua recomendação junto ao seu nickname vão aparecer nos commits oficiais na Branch principal.</td>
+    </tr>
+  </tbody>
+</table>
