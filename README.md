@@ -72,3 +72,39 @@ Wiresec é um script que organiza e realiza o download das principais ferramenta
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Step</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Send the official repository of the tool, along with the description, to (andersoncomercial@pm.me)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Wait up to 5 days for me to analyze and give you feedback</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>If approved, the tool will be included in the next version of Wiresec</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>If rejected, I will give you feedback explaining the reasons</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Implement the project</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Your recommendation along with your nickname will appear in the official commits on the main branch.</td>
+    </tr>
+  </tbody>
+</table>
+
