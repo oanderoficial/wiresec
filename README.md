@@ -1,6 +1,6 @@
 ─=≡Σ(([ ⊐•̀⌂•́]⊐
 
-[![Versão](https://img.shields.io/badge/vers%C3%A3o-1.3-sucecess.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-1.3.1-sucecess.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
 [![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20x64%20%7C%20Linux%20x86-inactive.svg)](https://github.com/oandersonbsilva/wiresec)
 [![Tools:](https://img.shields.io/badge/Tools%3A-48-blue.svg)](https://github.com/oandersonbsilva/wiresec/blob/master/wiresec.sh)
 # 📡 wiresec 
@@ -16,95 +16,25 @@ Wiresec é um script que organiza e realiza o download das principais ferramenta
 <li><code>chmod a+x wiresec.sh</code></li>
 <li><code> ./wiresec.sh </code></li>
 </ol>
-<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/banner.png">
+
+![image](https://github.com/oanderoficial/wiresec/assets/32654298/ce1a960c-bc9a-45f8-b0b9-dcb05ac4c8b1)
+
+![image](https://github.com/oanderoficial/wiresec/assets/32654298/81b60f8a-bfb4-49ef-81e3-5535357ecded)
+
+![image](https://github.com/oanderoficial/wiresec/assets/32654298/f5ab5459-80dd-4f12-b448-0d90d0a5ad77)
+
 
 # :exclamation: Requisitos
 
 <ul>
 <li>
-<p>Um sistema operacional linux.🐧 </p>
+<p>Um sistema operacional linux. </p>
 </li>
 <li>
-<p>git
+<p>git instalado
 </p>
 </li>
 </ul>
 
-# Screenshot 📷
 
-<img src="https://raw.githubusercontent.com/oandersonbsilva/wiresec/master/imagem.png">
-
-
-<h3> Recomendações de ferramentas no projeto </h3>
-<p> Tem uma recomendação de alguma ferramenta realacionada a Wireless Attacks ? </p>
-<p> Para ter essa ferramenta inclusa nas versões futuras do Wiresec, faça o seguinte: </p>
-<table>
-  <thead>
-    <tr>
-      <th>Passo</th>
-      <th>Descrição</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Envie o repositório oficial da ferramenta, junto com a descrição para (andersoncomercial@pm.me)</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Aguarde até 5 dias, vou analizar e te retornar um feedback</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>Se aprovado, a ferramenta será inclusa na próxima versão do Wiresec</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>Se for reprovado, vou te retornar um feedback explicando os motivos</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Implemente o projeto</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td> Sua recomendação junto ao seu nickname vão aparecer nos commits oficiais na Branch principal.</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
-  <thead>
-    <tr>
-      <th>Step</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>Send the official repository of the tool, along with the description, to (andersoncomercial@pm.me)</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>Wait up to 5 days for me to analyze and give you feedback</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>If approved, the tool will be included in the next version of Wiresec</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>If rejected, I will give you feedback explaining the reasons</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>Implement the project</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>Your recommendation along with your nickname will appear in the official commits on the main branch.</td>
-    </tr>
-  </tbody>
-</table>
-
+****
