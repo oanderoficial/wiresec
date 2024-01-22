@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+source help.sh 
+
 # Definir cores
 green='\e[0;34m'
 okegreen='\033[92m'
@@ -7,7 +9,7 @@ yellow='\e[1;33m'
 orange='\e[38;5;166m'
 
 # Diretório de Download
-DOWNLOAD_DIR="/wiresec"
+DOWNLOAD_DIR="wiresec-tools"
 
 # Função para exibir banner
 exibir_banner() {
@@ -16,7 +18,7 @@ exibir_banner() {
   echo -e "  __ | /| / /__  / __  ___/_  _ \\__  ___/_  _ \\_  ___/"
   echo -e "  __ |/ |/ / _  /  _  /    /  __/_(__  ) /  __// /__  "
   echo -e "  ____/|__/  /_/   /_/     \\___/ /____/  \\___/ \\___/  "
-  echo -e "  $yellow Autor:  Anderson.b.Silva (oanderoficial) | 48 Tools | GIT |$green v.1.3 "
+  echo -e "  $yellow Autor:  Anderson.b.Silva (oanderoficial) | 48 Tools | GIT |$green v.1.3.1 "
   echo -e "  -----------------------------------------------------"
   echo ""
   echo -e $yellow "[#]"$red "*** Wireless Attacks *** "
@@ -46,20 +48,24 @@ baixar_ferramenta() {
 # Menu principal
 exibir_banner
 
-select ferramenta in "Aircrack/ng" "Asleap" "Airflood" "Airgeddon" "Airopy"  "Airoscript" "airpwn" "aphopper" "apnbf" "atear" "auto-eap" "batctl" "batman-adv" "batman-alfred" "beholder" "boopsuite" "Bluelog" "BlueMaho" "Bluepot" "BlueRanger" "Bully" "coWPAtty" "crackle" "create_ap" "eapmd5pass" "eaphammer" "Fern/Wifi/Cracker" "fluxion" "freeradius" "Ghost/Phisher" "GISKismet" "gr-scan" "kalibrate-rtl" "KillerBee" "Kismet" "mdk3" "mfcuk" "mfoc" "mfterm" "Multimon-NG" "PixieWPS" "Reaver" "redfang" "RTLSDR-Scanner" "Spooftooph" "Wifi-Honey" "Wifitap" "Wifite" "Todos" "Sair"; do
+select ferramenta in "help" "Aircrack" "Asleap" "Airflood" "Airgeddon" "Airopy"  "Airoscript" "airpwn" "aphopper" "apnbf" "atear" "auto-eap" "batctl" "batman-adv" "batman-alfred" "beholder" "boopsuite" "Bluelog" "BlueMaho" "Bluepot" "BlueRanger" "Bully" "coWPAtty" "crackle" "create_ap" "eapmd5pass" "eaphammer" "Fern/Wifi/Cracker" "fluxion" "freeradius" "Ghost/Phisher" "GISKismet" "gr-scan" "kalibrate-rtl" "KillerBee" "Kismet" "mdk3" "mfcuk" "mfoc" "mfterm" "Multimon-NG" "PixieWPS" "Reaver" "redfang" "RTLSDR-Scanner" "Spooftooph" "Wifi-Honey" "Wifitap" "Wifite" "Todos" "Sair"; do
   case "$ferramenta" in
-    "Aircrack/ng")
-      baixar_ferramenta "Aircrack/ng" "https://github.com/aircrack-ng/aircrack-ng.git"
+    "Aircrack")
+      baixar_ferramenta "Aircrack" "https://github.com/aircrack-ng/aircrack-ng.git"
       ;;
+
     "Asleap")
       baixar_ferramenta "Asleap" "https://github.com/joswr1ght/asleap.git"
       ;;
+
     "Airflood")
       baixar_ferramenta "Airflood" "https://github.com/Seabreg/airflood.git"
       ;;
+
     "Airgeddon")
       baixar_ferramenta "Airgeddon" "https://github.com/v1s1t0r1sh3r3/airgeddon.git"
       ;;
+
     "Airopy")
       baixar_ferramenta "Airopy" "https://github.com/Josue87/Airopy.git"
       ;;
@@ -240,6 +246,10 @@ select ferramenta in "Aircrack/ng" "Asleap" "Airflood" "Airgeddon" "Airopy"  "Ai
       baixar_ferramenta "Wifite" "https://github.com/derv82/wifite.git"
       ;; 
       
+    "help")
+      exibir_ajuda
+      ;;
+
     "Todos")
       echo -e "$yellow *** Baixando Todas as Ferramentas ***"
       while read nome repo; do
