@@ -15,7 +15,7 @@ on:
 
 jobs:
   build:
-    runs-on: Arch-Linux
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout repository
