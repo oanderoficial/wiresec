@@ -1,0 +1,22 @@
+name: Wiresec Tools Pipeline
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: Arch-Linux
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install Git
+      run: sudo pacman -Sy --noconfirm git
+
+    - name: Set up Bash
+      run: |
+        chmod +x wiresec.sh
+        ./wiresec.sh
